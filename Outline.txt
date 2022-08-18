@@ -1,0 +1,4 @@
+- Map starts in a large woody area with a stump terminus (three tracks)
+- Station buildings on some stations from Frankfurt Waldbahn
+- Abandoned overgrown section that can be explored by manually setting a point
+- Rejoin with civilisation, tunnel entrance shortly after following road near forwst edge
